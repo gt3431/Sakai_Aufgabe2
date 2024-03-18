@@ -25,4 +25,4 @@ Sollte Herzfrequenz beim Test zu hoch werden wird die Warnung ausgegeben und eve
 ## Hinweise
 Pulsschwelle ist noch zu klären
 ## Änderungsgeschichte
-13:02; 18.03.2024; Julian Huber
+13:02; 18.03.2024; Tobias Gasteiger
